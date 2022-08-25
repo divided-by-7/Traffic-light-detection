@@ -1,2 +1,1 @@
-# -
-objection detection + OCR
+# objection detection + OCR
